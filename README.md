@@ -13,7 +13,7 @@
 
 ### Project Link :
 
-- DataPuller - [click here](https://charming-crepe-c4e9d2.netlify.app/)
+- DataPuller - [click here](https://shazib-userDdataPuller.vercel.app)
 
 ---
 
